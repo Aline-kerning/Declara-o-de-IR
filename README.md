@@ -1,4 +1,4 @@
-# Declara-o-de-IR
+# Declaração de IR
 Essa é uma ferramenta construída no Excel para reunir informações para a declaração de imposto de renda. 
 É uma ferramenta facil de ser utilizada, dinâmica, básica e completa.
 Foi construida com links rápidos, preenchimento automático, layout agradável, fórmulas.
